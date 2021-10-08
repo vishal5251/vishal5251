@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishal Jaiswal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<br/>
+
 - :octocat: Playing on a Frontend :video_game: 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with community developers :shipit:
