@@ -35,6 +35,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#16](https://github.com/ShivamDecodes/WebsiteAnimation/issues/16) in [ShivamDecodes/WebsiteAnimation](https://github.com/ShivamDecodes/WebsiteAnimation)
+2. 🎉 Merged PR [#31](https://github.com/ShivamDecodes/WebsiteAnimation/pull/31) in [ShivamDecodes/WebsiteAnimation](https://github.com/ShivamDecodes/WebsiteAnimation)
+3. 💪 Opened PR [#31](https://github.com/ShivamDecodes/WebsiteAnimation/pull/31) in [ShivamDecodes/WebsiteAnimation](https://github.com/ShivamDecodes/WebsiteAnimation)
+4. 🗣 Commented on [#689](https://github.com/bemusic/bemuse/issues/689) in [bemusic/bemuse](https://github.com/bemusic/bemuse)
+5. 🗣 Commented on [#689](https://github.com/bemusic/bemuse/issues/689) in [bemusic/bemuse](https://github.com/bemusic/bemuse)
 <!--END_SECTION:activity-->
 
 </details>
