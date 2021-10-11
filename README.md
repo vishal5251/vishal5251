@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/layer5io/discuss-twitter/pull/6) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
-2. 🗣 Commented on [#5](https://github.com/layer5io/discuss-twitter/issues/5) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
-3. 🗣 Commented on [#101](https://github.com/elenirotsides/Trivia-Bot/issues/101) in [elenirotsides/Trivia-Bot](https://github.com/elenirotsides/Trivia-Bot)
-4. 💪 Opened PR [#17](https://github.com/suyalamritanshu/Realtime-Chat-App/pull/17) in [suyalamritanshu/Realtime-Chat-App](https://github.com/suyalamritanshu/Realtime-Chat-App)
-5. 🗣 Commented on [#16](https://github.com/suyalamritanshu/Realtime-Chat-App/issues/16) in [suyalamritanshu/Realtime-Chat-App](https://github.com/suyalamritanshu/Realtime-Chat-App)
+1. 🗣 Commented on [#5](https://github.com/layer5io/discuss-twitter/issues/5) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
+2. 💪 Opened PR [#6](https://github.com/layer5io/discuss-twitter/pull/6) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
+3. 🗣 Commented on [#5](https://github.com/layer5io/discuss-twitter/issues/5) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
+4. 🗣 Commented on [#101](https://github.com/elenirotsides/Trivia-Bot/issues/101) in [elenirotsides/Trivia-Bot](https://github.com/elenirotsides/Trivia-Bot)
+5. 💪 Opened PR [#17](https://github.com/suyalamritanshu/Realtime-Chat-App/pull/17) in [suyalamritanshu/Realtime-Chat-App](https://github.com/suyalamritanshu/Realtime-Chat-App)
 <!--END_SECTION:activity-->
 
 </details>
