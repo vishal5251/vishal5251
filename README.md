@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/suyalamritanshu/Realtime-Chat-App/issues/16) in [suyalamritanshu/Realtime-Chat-App](https://github.com/suyalamritanshu/Realtime-Chat-App)
-2. 🗣 Commented on [#22](https://github.com/redislabs-training/ru102js/issues/22) in [redislabs-training/ru102js](https://github.com/redislabs-training/ru102js)
+1. 💪 Opened PR [#17](https://github.com/suyalamritanshu/Realtime-Chat-App/pull/17) in [suyalamritanshu/Realtime-Chat-App](https://github.com/suyalamritanshu/Realtime-Chat-App)
+2. 🗣 Commented on [#16](https://github.com/suyalamritanshu/Realtime-Chat-App/issues/16) in [suyalamritanshu/Realtime-Chat-App](https://github.com/suyalamritanshu/Realtime-Chat-App)
 3. 🗣 Commented on [#22](https://github.com/redislabs-training/ru102js/issues/22) in [redislabs-training/ru102js](https://github.com/redislabs-training/ru102js)
-4. 💪 Opened PR [#22](https://github.com/redislabs-training/ru102js/pull/22) in [redislabs-training/ru102js](https://github.com/redislabs-training/ru102js)
-5. 🗣 Commented on [#21](https://github.com/redislabs-training/ru102js/issues/21) in [redislabs-training/ru102js](https://github.com/redislabs-training/ru102js)
+4. 🗣 Commented on [#22](https://github.com/redislabs-training/ru102js/issues/22) in [redislabs-training/ru102js](https://github.com/redislabs-training/ru102js)
+5. 💪 Opened PR [#22](https://github.com/redislabs-training/ru102js/pull/22) in [redislabs-training/ru102js](https://github.com/redislabs-training/ru102js)
 <!--END_SECTION:activity-->
 
 </details>
