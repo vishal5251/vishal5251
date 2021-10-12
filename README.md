@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/layer5io/discuss-twitter/issues/6) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
-2. 🗣 Commented on [#22](https://github.com/redislabs-training/ru102js/issues/22) in [redislabs-training/ru102js](https://github.com/redislabs-training/ru102js)
-3. 🗣 Commented on [#5](https://github.com/layer5io/discuss-twitter/issues/5) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
-4. 💪 Opened PR [#6](https://github.com/layer5io/discuss-twitter/pull/6) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
-5. 🗣 Commented on [#5](https://github.com/layer5io/discuss-twitter/issues/5) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
+1. 💪 Opened PR [#102](https://github.com/elenirotsides/Trivia-Bot/pull/102) in [elenirotsides/Trivia-Bot](https://github.com/elenirotsides/Trivia-Bot)
+2. 🗣 Commented on [#6](https://github.com/layer5io/discuss-twitter/issues/6) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
+3. 🗣 Commented on [#22](https://github.com/redislabs-training/ru102js/issues/22) in [redislabs-training/ru102js](https://github.com/redislabs-training/ru102js)
+4. 🗣 Commented on [#5](https://github.com/layer5io/discuss-twitter/issues/5) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
+5. 💪 Opened PR [#6](https://github.com/layer5io/discuss-twitter/pull/6) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
 <!--END_SECTION:activity-->
 
 </details>
