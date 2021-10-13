@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#102](https://github.com/elenirotsides/Trivia-Bot/issues/102) in [elenirotsides/Trivia-Bot](https://github.com/elenirotsides/Trivia-Bot)
-2. 🗣 Commented on [#102](https://github.com/elenirotsides/Trivia-Bot/issues/102) in [elenirotsides/Trivia-Bot](https://github.com/elenirotsides/Trivia-Bot)
-3. 🗣 Commented on [#102](https://github.com/elenirotsides/Trivia-Bot/issues/102) in [elenirotsides/Trivia-Bot](https://github.com/elenirotsides/Trivia-Bot)
-4. 💪 Opened PR [#102](https://github.com/elenirotsides/Trivia-Bot/pull/102) in [elenirotsides/Trivia-Bot](https://github.com/elenirotsides/Trivia-Bot)
-5. 🗣 Commented on [#6](https://github.com/layer5io/discuss-twitter/issues/6) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
+1. 🎉 Merged PR [#2](https://github.com/vishal5251/donateApp/pull/2) in [vishal5251/donateApp](https://github.com/vishal5251/donateApp)
+2. 💪 Opened PR [#2](https://github.com/vishal5251/donateApp/pull/2) in [vishal5251/donateApp](https://github.com/vishal5251/donateApp)
+3. 🎉 Merged PR [#1](https://github.com/vishal5251/donateApp/pull/1) in [vishal5251/donateApp](https://github.com/vishal5251/donateApp)
+4. 🗣 Commented on [#102](https://github.com/elenirotsides/Trivia-Bot/issues/102) in [elenirotsides/Trivia-Bot](https://github.com/elenirotsides/Trivia-Bot)
+5. 🗣 Commented on [#102](https://github.com/elenirotsides/Trivia-Bot/issues/102) in [elenirotsides/Trivia-Bot](https://github.com/elenirotsides/Trivia-Bot)
 <!--END_SECTION:activity-->
 
 </details>
