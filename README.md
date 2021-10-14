@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/vishal5251/donateApp/pull/2) in [vishal5251/donateApp](https://github.com/vishal5251/donateApp)
-2. 💪 Opened PR [#2](https://github.com/vishal5251/donateApp/pull/2) in [vishal5251/donateApp](https://github.com/vishal5251/donateApp)
-3. 🎉 Merged PR [#1](https://github.com/vishal5251/donateApp/pull/1) in [vishal5251/donateApp](https://github.com/vishal5251/donateApp)
-4. 🗣 Commented on [#102](https://github.com/elenirotsides/Trivia-Bot/issues/102) in [elenirotsides/Trivia-Bot](https://github.com/elenirotsides/Trivia-Bot)
-5. 🗣 Commented on [#102](https://github.com/elenirotsides/Trivia-Bot/issues/102) in [elenirotsides/Trivia-Bot](https://github.com/elenirotsides/Trivia-Bot)
+1. ❗️ Closed issue [#25](https://github.com/ShivamDecodes/WebsiteAnimation/issues/25) in [ShivamDecodes/WebsiteAnimation](https://github.com/ShivamDecodes/WebsiteAnimation)
+2. 🎉 Merged PR [#32](https://github.com/ShivamDecodes/WebsiteAnimation/pull/32) in [ShivamDecodes/WebsiteAnimation](https://github.com/ShivamDecodes/WebsiteAnimation)
+3. 💪 Opened PR [#32](https://github.com/ShivamDecodes/WebsiteAnimation/pull/32) in [ShivamDecodes/WebsiteAnimation](https://github.com/ShivamDecodes/WebsiteAnimation)
+4. 🎉 Merged PR [#2](https://github.com/vishal5251/donateApp/pull/2) in [vishal5251/donateApp](https://github.com/vishal5251/donateApp)
+5. 💪 Opened PR [#2](https://github.com/vishal5251/donateApp/pull/2) in [vishal5251/donateApp](https://github.com/vishal5251/donateApp)
 <!--END_SECTION:activity-->
 
 </details>
