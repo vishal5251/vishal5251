@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/layer5io/discuss-twitter/pull/7) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
-2. ❗️ Closed issue [#25](https://github.com/ShivamDecodes/WebsiteAnimation/issues/25) in [ShivamDecodes/WebsiteAnimation](https://github.com/ShivamDecodes/WebsiteAnimation)
-3. 🎉 Merged PR [#32](https://github.com/ShivamDecodes/WebsiteAnimation/pull/32) in [ShivamDecodes/WebsiteAnimation](https://github.com/ShivamDecodes/WebsiteAnimation)
-4. 💪 Opened PR [#32](https://github.com/ShivamDecodes/WebsiteAnimation/pull/32) in [ShivamDecodes/WebsiteAnimation](https://github.com/ShivamDecodes/WebsiteAnimation)
-5. 🎉 Merged PR [#2](https://github.com/vishal5251/donateApp/pull/2) in [vishal5251/donateApp](https://github.com/vishal5251/donateApp)
+1. 🗣 Commented on [#7](https://github.com/layer5io/discuss-twitter/issues/7) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
+2. 💪 Opened PR [#7](https://github.com/layer5io/discuss-twitter/pull/7) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
+3. ❗️ Closed issue [#25](https://github.com/ShivamDecodes/WebsiteAnimation/issues/25) in [ShivamDecodes/WebsiteAnimation](https://github.com/ShivamDecodes/WebsiteAnimation)
+4. 🎉 Merged PR [#32](https://github.com/ShivamDecodes/WebsiteAnimation/pull/32) in [ShivamDecodes/WebsiteAnimation](https://github.com/ShivamDecodes/WebsiteAnimation)
+5. 💪 Opened PR [#32](https://github.com/ShivamDecodes/WebsiteAnimation/pull/32) in [ShivamDecodes/WebsiteAnimation](https://github.com/ShivamDecodes/WebsiteAnimation)
 <!--END_SECTION:activity-->
 
 </details>
