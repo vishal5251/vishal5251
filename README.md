@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/Codivas/portal-codivas/issues/48) in [Codivas/portal-codivas](https://github.com/Codivas/portal-codivas)
-2. 🗣 Commented on [#7](https://github.com/layer5io/discuss-twitter/issues/7) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
-3. 💪 Opened PR [#7](https://github.com/layer5io/discuss-twitter/pull/7) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
-4. ❗️ Closed issue [#25](https://github.com/ShivamDecodes/WebsiteAnimation/issues/25) in [ShivamDecodes/WebsiteAnimation](https://github.com/ShivamDecodes/WebsiteAnimation)
-5. 🎉 Merged PR [#32](https://github.com/ShivamDecodes/WebsiteAnimation/pull/32) in [ShivamDecodes/WebsiteAnimation](https://github.com/ShivamDecodes/WebsiteAnimation)
+1. 🗣 Commented on [#5](https://github.com/layer5io/discuss-twitter/issues/5) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
+2. 🗣 Commented on [#48](https://github.com/Codivas/portal-codivas/issues/48) in [Codivas/portal-codivas](https://github.com/Codivas/portal-codivas)
+3. 🗣 Commented on [#7](https://github.com/layer5io/discuss-twitter/issues/7) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
+4. 💪 Opened PR [#7](https://github.com/layer5io/discuss-twitter/pull/7) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
+5. ❗️ Closed issue [#25](https://github.com/ShivamDecodes/WebsiteAnimation/issues/25) in [ShivamDecodes/WebsiteAnimation](https://github.com/ShivamDecodes/WebsiteAnimation)
 <!--END_SECTION:activity-->
 
 </details>
