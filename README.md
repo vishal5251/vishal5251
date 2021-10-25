@@ -38,10 +38,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#48](https://github.com/Codivas/portal-codivas/issues/48) in [Codivas/portal-codivas](https://github.com/Codivas/portal-codivas)
-2. 🗣 Commented on [#5](https://github.com/layer5io/discuss-twitter/issues/5) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
+2. 💪 Opened PR [#54](https://github.com/Codivas/portal-codivas/pull/54) in [Codivas/portal-codivas](https://github.com/Codivas/portal-codivas)
 3. 🗣 Commented on [#48](https://github.com/Codivas/portal-codivas/issues/48) in [Codivas/portal-codivas](https://github.com/Codivas/portal-codivas)
-4. 🗣 Commented on [#7](https://github.com/layer5io/discuss-twitter/issues/7) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
-5. 💪 Opened PR [#7](https://github.com/layer5io/discuss-twitter/pull/7) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
+4. 🗣 Commented on [#5](https://github.com/layer5io/discuss-twitter/issues/5) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
+5. 🗣 Commented on [#48](https://github.com/Codivas/portal-codivas/issues/48) in [Codivas/portal-codivas](https://github.com/Codivas/portal-codivas)
 <!--END_SECTION:activity-->
 
 </details>
