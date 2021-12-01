@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/Codivas/portal-codivas/issues/48) in [Codivas/portal-codivas](https://github.com/Codivas/portal-codivas)
+1. 🗣 Commented on [#6](https://github.com/layer5io/discuss-twitter/issues/6) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
 2. 🗣 Commented on [#48](https://github.com/Codivas/portal-codivas/issues/48) in [Codivas/portal-codivas](https://github.com/Codivas/portal-codivas)
 3. 🗣 Commented on [#48](https://github.com/Codivas/portal-codivas/issues/48) in [Codivas/portal-codivas](https://github.com/Codivas/portal-codivas)
 4. 🗣 Commented on [#48](https://github.com/Codivas/portal-codivas/issues/48) in [Codivas/portal-codivas](https://github.com/Codivas/portal-codivas)
-5. 💪 Opened PR [#54](https://github.com/Codivas/portal-codivas/pull/54) in [Codivas/portal-codivas](https://github.com/Codivas/portal-codivas)
+5. 🗣 Commented on [#48](https://github.com/Codivas/portal-codivas/issues/48) in [Codivas/portal-codivas](https://github.com/Codivas/portal-codivas)
 <!--END_SECTION:activity-->
 
 </details>
