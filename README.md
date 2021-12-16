@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/layer5io/discuss-twitter/issues/6) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
-2. 🗣 Commented on [#5](https://github.com/layer5io/discuss-twitter/issues/5) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
-3. 🗣 Commented on [#7](https://github.com/layer5io/discuss-twitter/issues/7) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
-4. 💪 Opened PR [#7](https://github.com/layer5io/discuss-twitter/pull/7) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
-5. ❗️ Closed issue [#25](https://github.com/ShivamDecodes/WebsiteAnimation/issues/25) in [ShivamDecodes/WebsiteAnimation](https://github.com/ShivamDecodes/WebsiteAnimation)
+1. 💪 Opened PR [#742](https://github.com/bookbrainz/bookbrainz-site/pull/742) in [bookbrainz/bookbrainz-site](https://github.com/bookbrainz/bookbrainz-site)
+2. 🗣 Commented on [#6](https://github.com/layer5io/discuss-twitter/issues/6) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
+3. 🗣 Commented on [#5](https://github.com/layer5io/discuss-twitter/issues/5) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
+4. 🗣 Commented on [#7](https://github.com/layer5io/discuss-twitter/issues/7) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
+5. 💪 Opened PR [#7](https://github.com/layer5io/discuss-twitter/pull/7) in [layer5io/discuss-twitter](https://github.com/layer5io/discuss-twitter)
 <!--END_SECTION:activity-->
 
 </details>
