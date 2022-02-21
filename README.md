@@ -6,7 +6,7 @@
 - :octocat: Playing on a Frontend-Backend both :video_game: 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with community developers :shipit:
-- 🥅 2021 Goals: Contribute more to Open Source projects :dart:
+- 🥅 2022 Goals: Contribute more to Open Source projects :dart:
 - 📫 How to reach me   [:e-mail:](mailto:vishaljaiswal9551@gmail.com)
 - ⚡ Fun fact: I love to sketch :paintbrush:
 
